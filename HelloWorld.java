@@ -4,5 +4,11 @@ public class HelloWorld {
         System.out.println("Hi Bob");
         System.out.println("Hello World!");
         System.out.println("Goodbye Alice!");
+        System.out.println("Hi Alice");
+        System.out.println("Hi Bob");
+
+    }
+
+}
     }
 }
