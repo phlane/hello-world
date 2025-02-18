@@ -8,5 +8,7 @@ public class HelloWorld {
         System.out.println("Hi Bob");
         System.out.println("Hi Charlie");
         System.out.println("Hi Denise");
+        System.out.println(System.currentTimeMillis());
+        System.out.println(Runtime.getRuntime().totalMemory());
     }
 }
